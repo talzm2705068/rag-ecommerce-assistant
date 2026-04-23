@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Sony 藍牙耳機",
+    "price": 2500,
+    "category": "耳機"
+  },
+  {
+    "name": "Logitech 鍵盤",
+    "price": 1200,
+    "category": "鍵盤"
+  }
+]
